@@ -1,0 +1,25 @@
+{
+  "name": "lab4_users_database",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gbc-ekos/Lab04_101480050_COMP3133#readme",
+  "bugs": {
+    "url": "https://github.com/gbc-ekos/Lab04_101480050_COMP3133/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gbc-ekos/Lab04_101480050_COMP3133.git"
+  },
+  "license": "ISC",
+  "author": "Eduard Kosenko",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}
